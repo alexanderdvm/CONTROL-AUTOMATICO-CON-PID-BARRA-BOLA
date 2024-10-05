@@ -1,6 +1,5 @@
 # 👋 Hi, I’m [@alexanderdvm](https://github.com/alexanderdvm)
 
-![Header](https://raw.githubusercontent.com/alexanderdvm/alexanderdvm/main/header.png) <!-- Asegúrate de que la imagen sea adecuada -->
 
 ## 👀 About Me
 I am an Electronic Engineering student at **Universidad del Norte, Colombia**, with a passion for technology and innovation. I have a strong interest in:
@@ -66,8 +65,8 @@ I am eager to work on projects that involve:
 - Machine Learning
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: alexanervelasquezmalo@gmail.com / sistemasalexandervm@gmail.com / velasquezad@uninorte.edu.co
+   
 
 ## 😄 Pronouns
 He/Him
