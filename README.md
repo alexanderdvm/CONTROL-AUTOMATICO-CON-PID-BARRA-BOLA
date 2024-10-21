@@ -78,7 +78,7 @@ I love exploring new technologies and experimenting with different programming l
 
 Feel free to customize any section, especially the links and personal information. ¡Espero que te guste!
 
-ESTE PROYECTO DE CONTROL:
+## EN ESTE PROYECTO DE CONTROL:
 -Modelé la función de transferencia de un sistema de balance con controlador PID con un microcontrolador programado en C++.
 -simulé el comportamiento en Python
 -Diseñé piezas estructurales con una impresora 3D y SOLIDWORKS para la implementación física del sistema.
