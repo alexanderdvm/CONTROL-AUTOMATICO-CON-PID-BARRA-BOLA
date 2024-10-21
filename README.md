@@ -79,7 +79,13 @@ I love exploring new technologies and experimenting with different programming l
 Feel free to customize any section, especially the links and personal information. ¡Espero que te guste!
 
 ## EN ESTE PROYECTO DE CONTROL:
-- # Modelé la función de transferencia de un sistema de balance con controlador PID con un microcontrolador programado en C++.
-- # simulé el comportamiento en Python
-- # Diseñé piezas estructurales con una impresora 3D y SOLIDWORKS para la implementación física del sistema.
-todo esto utilizando toda la teoría de control moderno.
+- # Modelé la función de transferencia de un sistema de balance con controlador PID con un microcontrolador programado en C++ en el archivo pid_m.ino
+  referencia: https://github.com/ymaogar/Ball_and_Beam_Arduino/tree/main
+
+- # Simulé el comportamiento en Python en el archivo Proyecto_Control.ipynb
+  
+- # Diseñé piezas estructurales con una impresora 3D y SOLIDWORKS para la implementación física del sistema, las piezas estan en la carpeta Piezas 3d.
+  referencia: https://electronoobs.com/eng_arduino_tut100_stl1.php
+- 
+# todo esto utilizando toda la teoría de control moderno.
+  referencia: Ogata, K. (2010). Ingeniería de control moderna 5 ed. España: Pearson Educación.
